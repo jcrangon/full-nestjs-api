@@ -1,0 +1,14 @@
+user:
+  email-verification:
+    validity:
+      days: 1
+      hours: 0
+      minutes: 0
+      seconds: 0
+
+  forgotten-pass:
+    validity:
+      days: 0
+      hours: 0
+      minutes: 30
+      seconds: 0
